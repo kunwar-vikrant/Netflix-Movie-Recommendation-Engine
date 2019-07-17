@@ -1,4 +1,4 @@
-# Netflix Movie Recommendation Engine
+# <p align="center"> Netflix Movie Recommendation Engine </p>
 
 <p align="center">
   <img width="460" height="300" src="https://www.reliancedigital.in/wp-content/uploads/2019/02/netflix_movies_cover.jpg">
