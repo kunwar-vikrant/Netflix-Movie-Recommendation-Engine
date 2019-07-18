@@ -1,7 +1,7 @@
 # <p align="center"> Netflix Movie Recommendation Engine </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://cnet4.cbsistatic.com/img/SYs-UzsJBKtb3bNKyutHmLlqEzg=/970x0/2016/12/05/da01e7a3-0e31-4f68-895d-6512de17bc65/netflixvideouigif.gif">
+  <img width="460" height="300" src="https://media0.giphy.com/media/KMgt1G0dwvsBO/source.gif">
 </p>
 
 
