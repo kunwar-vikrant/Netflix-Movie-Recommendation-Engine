@@ -1,7 +1,7 @@
 # <p align="center"> Netflix Movie Recommendation Engine </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://www.reliancedigital.in/wp-content/uploads/2019/02/netflix_movies_cover.jpg">
+  <img width="460" height="300" src="https://cnet4.cbsistatic.com/img/SYs-UzsJBKtb3bNKyutHmLlqEzg=/970x0/2016/12/05/da01e7a3-0e31-4f68-895d-6512de17bc65/netflixvideouigif.gif">
 </p>
 
 
